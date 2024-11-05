@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/tunaerten/card-component]
-- Live Site URL: [https://card-component-erten.netlify.app]
+- Solution URL: [https://github.com/tunaerten/interactive-rating-component-with-error-statement]
+- Live Site URL: [https://interactive-rating-component-erten.netlify.app/]
 
 ## My process
 
